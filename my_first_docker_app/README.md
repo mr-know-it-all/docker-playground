@@ -69,3 +69,11 @@ WARNING! This will remove:
         - all images without at least one container associated to them
         - all build cache
 Are you sure you want to continue? [y/N] y
+
+Check running containers:
+
+sudo docker container ps (--all)
+
+Stop them:
+
+sudo docker stop [container-id]
