@@ -1,0 +1,13 @@
+{
+  "name": "my_first_docker_web_app",
+  "version": "1.0.0",
+  "description": "https://nodejs.org/en/docs/guides/nodejs-docker-webapp/",
+  "author": "mr-know-it-all",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
